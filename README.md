@@ -5,3 +5,4 @@ Now sending webhooks to ServiceNow?
 ## Getting Funky
 1. Webhooks are saved to the webhook stream table
 2. Now we are getting email notifications fired by a workflow
+3. Now some security is enforced
